@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "385339386904",
+    "firebase_url": "https://stage-yool-education-98ae2-default-rtdb.firebaseio.com",
+    "project_id": "stage-yool-education-98ae2",
+    "storage_bucket": "stage-yool-education-98ae2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385339386904:android:7cf81c043602f9eb3e676d",
+        "android_client_info": {
+          "package_name": "com.example.yool_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385339386904-q552p0qd3rklm0h62f9blqk7pd2po494.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkY_-9myTsO4Ml9xrLFMDhuFC3AfP8fu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385339386904-q552p0qd3rklm0h62f9blqk7pd2po494.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "385339386904-0h1s8krloeb4kpm4ojnek80b5pvckr0i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.yoolProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
